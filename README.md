@@ -1,2 +1,10 @@
 # AwesomeMinestom
-A list of awesome Minestom projects
+Here contains a list of fun and interesting Minestom projects you should check out!
+
+###### If you would like to submit yours, please [create an issue](https://github.com/emortaldev/AwesomeMinestom/issues/new)
+
+| Project Name                                    | Server IP      | Public | Work In Progress | Owner                                       | Notable Features                                                                                                                                                                                                                            |
+|-------------------------------------------------|----------------|--------|------------------|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [EmortalMC](https://github.com/EmortalMC)       | mc.emortal.dev | ❌      | ✔️                | [emortaldev](https://github.com/emortaldev) | [Lobby](https://github.com/EmortalMC/LobbyExtension), [LazerTag](https://github.com/EmortalMC/LazerTag)                                                                                                                                     |
+| [Project Cepi](https://github.com/Project-Cepi) | cepi.world     | ✔️      | ✔️                | [LeoDog896](https://github.com/LeoDog896)   | Custom [mobs](https://github.com/Project-Cepi/MobExtension), [items](https://github.com/Project-Cepi/ItemExtension) and [traps](https://github.com/Project-Cepi/Traps); Scripting; [Laboratory](https://github.com/Project-Cepi/Laboratory) |
+| Ecliptic MC                                     |                | ❌      | ✔️                | [JustDoom](https://github.com/JustDoom)     | Waterbucket clutching                                                                                                                                                                                                                       |
