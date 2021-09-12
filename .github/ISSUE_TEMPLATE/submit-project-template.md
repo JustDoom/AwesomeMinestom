@@ -20,7 +20,7 @@ e.g. No
 e.g. Yes
 
 **Who is the owner of the project?**
-e.g. emortaldev https://github.com/emortaldev
+e.g. https://github.com/emortaldev
 
 **What are some notable features of your project?**
 e.g. Lobby, LazerTag
