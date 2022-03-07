@@ -1,3 +1,5 @@
+This was a fork of emortaldev's AwesomeMinestom but he deleted it. Feel free to make pull requests but I probably won't update it myself
+
 # AwesomeMinestom
 Here contains a list of fun and interesting Minestom projects you should check out!
 
